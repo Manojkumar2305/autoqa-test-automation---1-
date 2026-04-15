@@ -1,10 +1,9 @@
 # autoqa-test-automation---1-
 AutoQA Pro is a robust, scalable, and maintainable end-to-end test automation framework built using Selenium WebDriver, Java, and TestNG for an E-Commerce web application.  It follows industry best practices like the Page Object Model (POM) design pattern, ensuring clean separation of concerns, reusability, and easy maintenance.
 
-**🚀 AutoQA Pro – E2E Test Automation Framework
-**
-AutoQA Pro is a scalable and maintainable end-to-end Selenium automation framework built for an E-Commerce application using Selenium WebDriver, TestNG, and Java.
+**🚀 AutoQA Pro – E2E Test Automation Framework**
 
+AutoQA Pro is a scalable and maintainable end-to-end Selenium automation framework built for an E-Commerce application using Selenium WebDriver, TestNG, and Java.
 It follows the Page Object Model (POM) design pattern and industry best practices to ensure clean architecture, reusability, and reliability.
 
 **Features** :
