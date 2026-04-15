@@ -1,0 +1,20 @@
+[
+  {
+    "email": "manojkumar_settipalli@srmap.edu.in";
+    "password": "Manoj@000",
+    "expectedResult": "pass",
+    "description": "Valid credentials login"
+  },
+  {
+    "email": "wrong@example.com",
+    "password": "WrongPass",
+    "expectedResult": "fail",
+    "description": "Invalid password login"
+  },
+  {
+    "email": "notregistered@example.com",
+    "password": "AnyPass1",
+    "expectedResult": "fail",
+    "description": "Unregistered email login"
+  }
+]
